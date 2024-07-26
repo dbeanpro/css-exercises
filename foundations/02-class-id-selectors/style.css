@@ -1,9 +1,9 @@
 .odd {
     background-color: rgb(250, 127, 229);
-    font-family: Verdana, DeJaVu-Sans, sans-serif;
+    font-family: Verdana, "DeJaVu Sans", sans-serif;
 }
 
-.LText {
+#num2 {
     font-size: 36px;
     color: rgb(54, 54, 184);
 }
