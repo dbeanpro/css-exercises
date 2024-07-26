@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(250, 127, 229);
+    font-family: Verdana, DeJaVu-Sans, sans-serif;
+}
+
+.LText {
+    font-size: 36px;
+    color: rgb(54, 54, 184);
+}
+
+.MText {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(168, 214, 98);
+    font-weight: bold;
+}
